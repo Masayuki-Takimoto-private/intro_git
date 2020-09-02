@@ -4,3 +4,6 @@ Gitの練習をしていきます。
 ・git commit
 ・git rm
 ・git status
+・git log -p first.txt -n 3 --onelineとか
+・git diff
+
